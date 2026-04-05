@@ -1,4 +1,4 @@
-ETL Workflow for Supply Chain Optimization
+# ETL Workflow for Supply Chain Optimization
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![SQLite](https://img.shields.io/badge/DB-SQLite_(Azure_SQL_proxy)-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
@@ -20,6 +20,10 @@ pip install -r DS6_SupplyChain__requirements.txt
 python DS6_SupplyChain__main.py
 ```
 Results
+
 20% reduction in delivery delays through route cost analysis
+
 Inventory reorder alerts by warehouse surfaced automatically
+
 Carrier SLA breach rates ranked to guide contract renegotiation
+
